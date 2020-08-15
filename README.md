@@ -1,5 +1,5 @@
 # Voice-Recorder
-###An android application where users can record, access and play voice recordings. User interface is very responsive and it has in-built media player to play the recorded audio files
+### An android application where users can record, access and play voice recordings. User interface is very responsive and it has in-built media player to play the recorded audio files
 
 ## This application saves the recordings in the internal storage of phone
 ### 🔰User can access and play all voice recordings within the app
