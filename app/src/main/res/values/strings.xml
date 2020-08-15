@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VoiceRecorder_18</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="github">GitHub</string>
+    <string name="techaddicts">Techaddicts</string>
+    <string name="connect_to_me">Connect to me</string>
+</resources>
