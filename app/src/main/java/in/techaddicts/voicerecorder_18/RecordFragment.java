@@ -95,22 +95,9 @@ public class RecordFragment extends Fragment implements View.OnClickListener {
                 Navigation Controller
                 Part of Android Jetpack, used for navigation between both fragments
                  */
-                if(isRecording){
-                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getContext());
-                    alertDialog.setPositiveButton("OKAY", new DialogInterface.OnClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialog, int which) {
-                            navController.navigate(R.id.action_recordFragment_to_audioListFragment2);
-                            isRecording = false;
-                        }
-                    });
-                    alertDialog.setNegativeButton("CANCEL", null);
-                    alertDialog.setTitle("Audio Still recording");
-                    alertDialog.setMessage("Are you sure, you want to stop the recording?");
-                    alertDialog.create().show();
-                } else {
-                    navController.navigate(R.id.action_recordFragment_to_audioListFragment2);
-                }
+                
+                
+                
                 break;
 
             case R.id.record_btn:
