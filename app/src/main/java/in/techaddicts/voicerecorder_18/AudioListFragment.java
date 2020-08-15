@@ -101,18 +101,7 @@ public class AudioListFragment extends Fragment implements AudioListAdapter.onIt
             }
         });
 
-        playBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if(isPlaying){
-                    pauseAudio();
-                } else {
-                    if(fileToPlay != null){
-                        resumeAudio();
-                    }
-                }
-            }
-        });
+
 
         playerSeekbar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
