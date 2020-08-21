@@ -10,7 +10,7 @@
 
 ![1](https://user-images.githubusercontent.com/44981613/89562585-d1a0d200-d837-11ea-84da-a81201bafbad.jpg)
 
-### All voice recordings are accessible within the app and also there is in-built media player:
+### All the voice recordings are accessible within the app and also there is in-built media player:
 ![2](https://user-images.githubusercontent.com/44981613/89562607-d8c7e000-d837-11ea-8a1d-80ec9928e634.jpg)
 
 ![3](https://user-images.githubusercontent.com/44981613/89562619-debdc100-d837-11ea-9c31-405e30c335e6.jpg)
