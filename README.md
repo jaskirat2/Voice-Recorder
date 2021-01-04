@@ -3,7 +3,7 @@
 
 ### This application saves recordings in internal storage of phone
 ### 🔰User can access and play all voice recordings within the app
-### 🔰Simple, responsive and cool User Interface
+### 🔰Simple, responsive cool User Interface
 ### 🔰In-built media player
 ### 🔰High quality audio recording
 ### If you want to access the recordings in the internal memory, go to: File Manager -> Phone Storage -> Android -> data -> in.techaddicts.voicerecorder_18 -> Files (Here, you will see all the audio files which are recorded using this app)
